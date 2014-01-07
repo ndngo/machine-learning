@@ -4,9 +4,9 @@ Tutorials and assignments from the [2011 Stanford Machine Learning course][http:
 
 ##Other repos
 
-*[schneems/Octave][https://github.com/schneems/Octave]
-*[joewandy/Stanford-Machine-Learning][https://github.com/joewandy/Stanford-Machine-Learning]
-*[everpeace/ml-class-assignments][https://github.com/everpeace/ml-class-assignments]
+* [schneems/Octave][https://github.com/schneems/Octave]
+* [joewandy/Stanford-Machine-Learning][https://github.com/joewandy/Stanford-Machine-Learning]
+* [everpeace/ml-class-assignments][https://github.com/everpeace/ml-class-assignments]
 
 ##Licence
 
